@@ -265,7 +265,7 @@ st.set_page_config(
     page_icon="🏛️",
     layout="centered"
 )
-circle_img = make_circle_image("apprentice.png")
+circle_img = make_circle_image("Apprentice.png")
 
 # Save to in-memory buffer
 buf = io.BytesIO()
