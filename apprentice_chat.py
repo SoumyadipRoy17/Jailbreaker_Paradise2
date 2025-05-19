@@ -275,7 +275,7 @@ buf.seek(0)
 # Display in center column
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
-    st.image(buf, use_column_width=True, caption="Architect's Apprentice (1632)")
+    st.image(buf, use_container_width=True, caption="Architect's Apprentice (1632)")
 
 
 
